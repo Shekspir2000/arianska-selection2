@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/linki",
+      "destination": "/linki.html"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+README.md
+tmp/
+output/
+tools/
+3d-assets/
+*.pdf
+CHUVS_oferta_HD_4x.jpg
+CHUVS_oferta_HD_4x.png
+.DS_Store
